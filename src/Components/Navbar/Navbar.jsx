@@ -1,12 +1,13 @@
 import React from 'react';
 import { FaCartPlus } from "react-icons/fa";
+import { Link } from 'react-router-dom';
 const Navbar = () => {
     const items = <>
-        <li className='text-2xl px-4'>Home</li>
-        <li className='text-2xl px-4'>Blogs</li>
-        <li className='text-2xl px-4'>All Products</li>
-        <li className='text-2xl px-4'>Dashbord</li>
-        <li className='text-2xl px-4'>Login</li>
+        <li className='text-2xl px-2'> <Link to='/'>Home</Link> </li>
+        <li className='text-2xl px-2'> <Link to='/all-products'>All Products</Link> </li>
+        <li className='text-2xl px-2'> <Link to='/blog'>Blog</Link> </li>
+        <li className='text-2xl px-2'> <Link to='/dashbord'>Dashbord</Link> </li>
+        <li className='text-2xl px-2'> <Link to='/login'>Login</Link> </li>
     </>
     return (
         <div className="navbar bg-base-300 py-3 ">
