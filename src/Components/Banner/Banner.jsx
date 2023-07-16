@@ -10,7 +10,7 @@ import { Pagination, Navigation, HashNavigation } from 'swiper/modules';
 
 const Banner = () => {
     return (
-        <>
+        <div className=' mx-5 my-4'>
             <Swiper
                 spaceBetween={30}
                 hashNavigation={{
@@ -21,7 +21,7 @@ const Banner = () => {
                 }}
                 navigation={true}
                 modules={[Pagination, Navigation, HashNavigation]}
-                className="mySwiper"
+                className="mySwiper rounded-3xl"
             >
                 <SwiperSlide data-hash="slide1">
                 <img src="https://i.ibb.co/gM7RkG5/banner1.jpg" alt="banner1" border="0"/>
@@ -34,7 +34,7 @@ const Banner = () => {
                 </SwiperSlide>
                 
             </Swiper>
-        </>
+        </div>
     );
 };
 
