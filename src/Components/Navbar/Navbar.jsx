@@ -1,7 +1,10 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import { FaCartPlus } from "react-icons/fa";
 import { Link } from 'react-router-dom';
+import { AuthContex } from '../../Provider/AuthProvider';
 const Navbar = () => {
+    const {user} = useContext(AuthContex);
+    console.log(user);
     const items = <>
         <li className='text-2xl px-2'> <Link to='/'>Home</Link> </li>
         <li className='text-2xl px-2'> <Link to='/all-products'>All Products</Link> </li>
