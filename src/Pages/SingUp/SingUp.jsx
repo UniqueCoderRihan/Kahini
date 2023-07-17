@@ -1,11 +1,36 @@
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 import Social from "../../Components/Social/Social";
+import { useContext } from "react";
+import { AuthContex } from "../../Provider/AuthProvider";
+import Swal from "sweetalert2";
 const SingUp = () => {
     const { register, handleSubmit } = useForm();
+    const {createUser,userProfileUpdate} = useContext(AuthContex);
     const onSubmit = data => {
-        console.log(data);
-        // console.log(import.meta.env.);
+        // console.log(data);
+        createUser(data.email,data.password)
+        .then(result=>{
+            // console.log(result);
+            userProfileUpdate(data.name,data.photo)
+            .then(()=>{
+                Swal.fire({
+                    position: 'top-end',
+                    icon: 'success',
+                    title: 'Thanks For Creating Account',
+                    showConfirmButton: false,
+                    timer: 1500
+                  })
+                // console.log('This is Updated Result:', result.user);
+                const user = {name:data.name,email:data.email,role:data.role, photoUrl: data.photo,password: data.password,firebase:result.user.metadata}
+                console.log('This is Redy for go on Database: ',user);
+
+            })
+        })
+        .catch(error =>{
+            console.log(error);
+        })
+        
     };
     return (
         <div className="bg-base-200 mx-auto sm:w-1/3 p-5 my-4 rounded-3xl">

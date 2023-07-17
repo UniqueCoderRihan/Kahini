@@ -1,9 +1,28 @@
 import { useForm } from "react-hook-form";
 import { Link } from "react-router-dom";
 import Social from "../../Components/Social/Social";
+import { useContext } from "react";
+import { AuthContex } from "../../Provider/AuthProvider";
+import Swal from "sweetalert2";
 const Login = () => {
     const { register, handleSubmit } = useForm();
-    const onSubmit = data => console.log(data);
+    const {LoginUser} = useContext(AuthContex);
+    const onSubmit = data => {
+        LoginUser(data.email,data.password)
+        .then(result=>{
+            Swal.fire({
+                position: 'top-end',
+                icon: 'success',
+                title: 'Login Succesfully',
+                showConfirmButton: false,
+                timer: 1500
+              })
+              
+        })
+        .catch(error=>{
+            console.log(error);
+        })
+    };
     return (
        
         <div className="bg-base-200 mx-auto sm:w-1/3 p-5 my-4 rounded-3xl">
