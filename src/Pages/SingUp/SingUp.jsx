@@ -8,42 +8,43 @@ const SingUp = () => {
         <div className="bg-base-200 mx-auto sm:w-1/3 p-5 my-4 rounded-3xl">
             <img src="https://i.ibb.co/M2GJH3g/techzoxne-1.png" alt="techzoxne-1" className='rounded-lg p-5' />
             <p className="text-3xl ">Welcome for Joining With Us </p>
-            <form>
+            <form  onSubmit={handleSubmit(onSubmit)}>
                 <div className="card-body ">
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Full Name</span>
                         </label>
-                        <input type="text" placeholder="Enter Your Full Name" className="input input-bordered" />
+                        <input  {...register("name", { required: true })} type="text" placeholder="Enter Your Full Name" className="input input-bordered" />
                     </div>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Photo Url</span>
                         </label>
-                        <input type="text" placeholder="Photo Url" className="input input-bordered" />
+                        <input  {...register("photo", { required: true })} type="text" placeholder="Photo Url" className="input input-bordered" />
                     </div>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Email</span>
                         </label>
-                        <input type="email" placeholder="email-Address" className="input input-bordered" />
+                        <input  {...register("email", { required: true })} type="email" placeholder="email-Address" className="input input-bordered" />
                     </div>
                     <div className="form-control">
                         <label className="label">
                             <span className="label-text">Password</span>
                         </label>
-                        <input type="text" placeholder="PassWord" className="input input-bordered" />
+                        <input  {...register("password", { required: true })} type="text" placeholder="PassWord" className="input input-bordered" />
+                    </div>
+                    <div className="form-control">
+                        <select  {...register("role", { required: true })}  className="input input-bordered" >
+                            <option value="seller">Seller</option>
+                            <option value="buyer">Buyer</option>
+                        </select>
                     </div>
                     <div className="flex">
                         
                         <p className="flex justify-end"><small><Link to='/login'>Already have an Account?</Link></small></p>
                     </div>
-                    <div className="form-control">
-                        <select  className="input input-bordered" >
-                            <option value="">Seller</option>
-                            <option value="">Buyer</option>
-                        </select>
-                    </div>
+                    
                     <button className="btn btn-secondary">Register</button>
                 </div>
 
