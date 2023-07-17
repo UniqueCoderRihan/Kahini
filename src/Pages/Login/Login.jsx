@@ -1,6 +1,6 @@
 import { useForm } from "react-hook-form";
-import { FaGoogle,FaFacebookSquare} from "react-icons/fa";
 import { Link } from "react-router-dom";
+import Social from "../../Components/Social/Social";
 const Login = () => {
     const { register, handleSubmit } = useForm();
     const onSubmit = data => console.log(data);
@@ -31,15 +31,7 @@ const Login = () => {
                 </div>
                 
             </form>
-            <div className="divider mt-0"></div>
-            <div className="text-center">
-                <button className="btn btn-outline btn-circle text-2xl">
-                    <FaGoogle></FaGoogle>
-                </button>
-                <button className="btn btn-outline btn-circle text-2xl ml-2">
-                    <FaFacebookSquare></FaFacebookSquare>
-                </button>
-            </div>
+            <Social></Social>
         </div>
     );
 };

@@ -7,22 +7,23 @@ import Main from './Layout/Main.jsx'
 import Home from './Pages/Home/Home'
 import SingUp from './Pages/SingUp/SingUp'
 import Login from './Pages/Login/Login'
+import AuthProvider from './Provider/AuthProvider'
 
 const router = createBrowserRouter([
   {
-    path:'/',
+    path: '/',
     element: <Main></Main>,
     children: [
       {
-        path:'/',
+        path: '/',
         element: <Home></Home>
       },
       {
-        path:'/register',
+        path: '/register',
         element: <SingUp></SingUp>
       },
       {
-        path:'/login',
+        path: '/login',
         element: <Login></Login>
       }
     ]
@@ -31,6 +32,8 @@ const router = createBrowserRouter([
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <RouterProvider router={router}></RouterProvider>
+    <AuthProvider>
+      <RouterProvider router={router}></RouterProvider>
+    </AuthProvider>
   </React.StrictMode>,
 )
