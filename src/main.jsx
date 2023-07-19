@@ -8,11 +8,13 @@ import Home from './Pages/Home/Home'
 import SingUp from './Pages/SingUp/SingUp'
 import Login from './Pages/Login/Login'
 import AuthProvider from './Provider/AuthProvider'
+import ErrorPage from './Components/Error/ErrorPage'
 
 const router = createBrowserRouter([
   {
     path: '/',
     element: <Main></Main>,
+    errorElement:<ErrorPage></ErrorPage>,
     children: [
       {
         path: '/',
