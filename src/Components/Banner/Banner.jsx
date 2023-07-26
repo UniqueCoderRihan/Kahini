@@ -24,13 +24,13 @@ const Banner = () => {
                 className="mySwiper rounded-3xl"
             >
                 <SwiperSlide data-hash="slide1">
-                <img src="https://i.ibb.co/gM7RkG5/banner1.jpg" alt="banner1" border="0"/>
+                <img src="https://i.ibb.co/cJDTCgM/2986531-1.png" alt="banner1" border="0"/>
                 </SwiperSlide>
                 <SwiperSlide data-hash="slide2">
-                <img src="https://i.ibb.co/xLS2KHQ/banner2.jpg" alt="banner2" border="0"/>
+                <img src="https://i.ibb.co/NZR0M5C/2986531.png" alt="banner2" border="0"/>
                 </SwiperSlide>
                 <SwiperSlide data-hash="slide3">
-                <img src="https://i.ibb.co/wrkBPY2/banner3.jpg" alt="banner3" border="0"/>
+                <img src="https://i.ibb.co/cJDTCgM/2986531-1.png" alt="banner3" border="0"/>
                 </SwiperSlide>
                 
             </Swiper>

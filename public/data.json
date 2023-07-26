@@ -1,0 +1,242 @@
+[
+    {
+      "id": "1",
+      "seller":"Hamid",
+      "verified":"true",
+      "title": "Apple iPhone 12, 64GB, Green - Unlocked ",
+      "img": "https://m.media-amazon.com/images/I/71r0E8xfKcL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "category": "smartphone",
+      "description": "This Renewed Premium product is shipped and sold by Amazon and has been certified by Amazon to work and look like new. With at least 90% battery life, it comes in deluxe, Amazon-branded packaging and is backed by a one-year warranty and technical suppor",
+      "price": "545000"
+    },
+    {
+      "id": "2",
+      "seller":"sohan",
+      "verified":"true",
+      "title": "Apple iPhone XR, 128GB, Red - Unlocked (Renewed Premium) ",
+      "img": "https://m.media-amazon.com/images/I/51QG+K5RQtL._AC_SL1100_.jpg",
+      "category": "smartphone",
+      "description": "This Renewed Premium product is shipped and sold by Amazon and has been certified by Amazon to work and look like new. With at least 90% battery life, it comes in deluxe, Amazon-branded packaging and is backed by a one-year warranty and technical support",
+      "price": "50000"
+    },
+    {
+      "id": "3",
+      "seller":"Hamidedd",
+      "verified":"false",
+      "title": "SAMSUNG Galaxy S22 Ultra Cell Phone, Factory Unlocked Android Smartphone, ",
+      "img": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg",
+      "category": "smartphone",
+      "description": "512GB, 8K Camera & Video, Brightest Display Screen, S Pen, Long Battery Life, Fast 4nm Processor, US Version, Phantom White",
+      "price": "300000"
+    },
+    {
+      "id": "4",
+      "seller":"sanjida",
+      "verified":"true",
+      "title": "Moto G Pure | 2021 | 2-Day battery | Unlocked | Made for US by Motorola",
+      "img": "https://m.media-amazon.com/images/I/61voYsPhFTL._AC_SL1500_.jpg",
+      "category": "smartphone",
+      "description": "Products with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasing.",
+      "price": "78090"
+    },
+    {
+      "id": "5",
+      "seller":"rahat",
+      "verified":"true",
+      "title": "OnePlus Nord N20 5G |Android Smart Phone |6.43 AMOLED Display|6+128GB |U.S. Unlocked",
+      "img": "https://m.media-amazon.com/images/I/71hIjJkMqFL._AC_SX679_.jpg",
+      "category": "smartphone",
+      "description": "Save up to $401.00 on your new device with Amazon.com Gift Card credit when you trade in your old device The OnePlus Nord N20 is the perfect entry-level 5G phone, featuring premium specs and an affordable price. *5G compatible with T-mobile",
+      "price": "56660"
+    },
+    {
+      "id": "6",
+      "seller":"Hamided",
+      "verified":"true",
+      "title": "realme 9 Pro+ Dual-SIM 128GB ROM + 6GB RAM (GSM only | No CDMA) Factory Unlocked 5G Smartphone",
+      "img": "https://m.media-amazon.com/images/I/71-giSI8zxL._AC_SX679_.jpg",
+      "category": "smartphone",
+      "description": "For USA Buyers: This Smartphone is not compatible/will not work with any CDMA Networks including: VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or 4G/LTE compatibility check beforeDual-SIM, Network Compatibility, SIM CARD 1 & 2 : [2G : GSM 850 / 900 / 1800 / 1900 and/or 3G : WCDMA 800(B6) / 800(B19) / 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G : FDD-LTE : 700(B28) / 850(B5) / 900(B8) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) : TDD-LTE : 1900(B39) / 2000(B34) / 2300(B40) / 2500(B41) / 2600(B38) and/or 5G",
+      "price": "67573"
+    },
+    {
+      "id": "7",
+      "seller":"sohel",
+      "verified":"true",
+      "title": "SAMSUNG Galaxy Watch 4 40mm Smartwatch with ECG Monitor Tracker for Health, Fitness",
+      "img": "https://m.media-amazon.com/images/I/61IZmXci7qS._AC_SX679_.jpg",
+      "category": "watch",
+      "description": "Time Display, GPS, Sleep Monitor, Text Messaging, Accelerometer, Alarm Clock, Calendaring, Fall Detection, Heart Rate Monitor, Notifications, Phone Call, Sleep Monitor, Activity Tracker, ECG Smartphone is not compatible/will not work with any CDMA Networks including: VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or 4G/LTE compat",
+      "price": "1000"
+    },
+    {
+      "id": "8",
+      "seller":"rakib",
+      "verified":"true",
+      "title": " Android iPhone, 14-Day Battery Life, Alexa Built-in, Fitness Watch with GPS, Bluetooth Call,",
+      "img": "https://m.media-amazon.com/images/I/61CJ+-3yM-L._AC_SX679_.jpg",
+      "category": "watch",
+      "description": "AMAZON ALEXA BUILT-IN & BLUETOOTH PHONE CALLS: Talk to Amazon Alexa on your Amazfit GTS 2. Ask questions, get translations, check the weather, control your smart home devices, and more. Also, you can answer calls on your smart watch via the built-in microphone and speaker upon the connection to your phone",
+      "price": "273"
+    },
+    {
+      "id": "9",
+      "seller":"Halim",
+      "verified":"true",
+      "title": "Garmin Venu Sq Music, GPS Smartwatch with Bright Touchscreen Display, Features",
+      "img": "https://m.media-amazon.com/images/I/61dzCPQmu7L._AC_SX679_.jpg",
+      "category": "watch",
+      "description": "Forasily download songs to your watch, including playlists from Spotify, Amazon Music or Deezer accounts (requires app on a compatible smartphone), and connect with wireless headphones (sold separately) for phone-free listenin compatibility check beforeDual-SIM, Network Compatibility, SIM CARD 1 & 2 : [2G : GSM 850 / 900 / 1800 / 1900 and/or 3G : WCDMA 800(B6) / 800(B19) / 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G : FDD-LTE : 700(B28) / 850(B5) / 900(B8) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) : TDD-LTE : 1900(B39) / 2000(B34) / 2300(B40) / 2500(B41) / 2600(B38) and/or 5G",
+      "price": "73"
+    },
+    {
+      "id": "10",
+      "seller":"jhon",
+      "verified":"true",
+      "title": " GTS 2 Mini Smart Watch for Women Android iPhone, Alexa Built-in, 14 Days Battery Life",
+      "img": "https://m.media-amazon.com/images/I/610FHtXsfnL._AC_SX679_.jpg",
+      "category": "watch",
+      "description": "You can talk to Amazon Alexa on your Amazfit GTS 2 Mini Smart Watch. Ask questions, get translations, set alarms, and timers, create shopping lists, check the weather, control your smart home devices, and more. Get precise tracking on your daily steps, distance traveled, and calories burned thanks to integrated GPS..Supported Application:Alarm,Calendar,Calorie Tracker,Heart Rate Monitor,Distance Tracking. Connectivity technology:Bluetooth,GPS. Wireless comm standard",
+      "price": "573"
+    },
+    {
+      "id": "11",
+      "seller":"don",
+      "verified":"true",
+      "title": "Fossil Gen 6 44mm Touchscreen Smartwatch with Alexa Built-In, Heart Rate, Blood Oxygen",
+      "img": "https://m.media-amazon.com/images/I/7111Hm-1jgL._AC_UX679_.jpg",
+      "category": "watch",
+      "description": "Automatically tracks activity goals, steps, sleep, heart rate, cardio, and SpO2 (blood oxygen). Activity modes with GPS keep you on track with your distance and path. Advanced sensors provide the data to power all your health and fitness tracker appss not compatible/will not work with any CDMA Networks including: VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or",
+      "price": "67573"
+    },
+    {
+      "id": "12",
+      "seller":"motu",
+      "verified":"true",
+      "title": "Fitbit Versa 4 Fitness Smartwatch with Daily Readiness, GPS, 24/7 Heart Rate, 40+ Exercise Modes",
+      "img": "https://m.media-amazon.com/images/I/61CZSoSnVPL.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "category": "watch",
+      "description": "For USA Buyers: This Smartphone is not compatible/will not work with any CDMA Networks including: VERIZON, SPRINT, US CELLULAR. Please check with your network provider for 3G or 4G/LTE compatibility check beforeDual-SIM, Network Compatibility, SIM CARD 1 & 2 : [2G : GSM 850 / 900 / 1800 / 1900 and/or 3G : WCDMA 800(B6) / 800(B19) / 850(B5) / 900(B8) / 1700|2100(B4) / 1900(B2) / 2100(B1) and/or 4G : FDD-LTE : 700(B28) / 850(B5) / 900(B8) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) : TDD-LTE : 1900(B39) / 2000(B34) / 2300(B40) / 2500(B41) / 2600(B38) and/or 5G",
+      "price": "67573"
+    },
+    {
+      "id": "13",
+      "seller":"Dr.jhatka",
+      "verified":"true",
+      "title": "Hisense 58-inch ULED U6 Series Quantum Dot LED 4K UHD Smart Fire TV",
+      "img": "https://m.media-amazon.com/images/I/71jgpwBoFiL._AC_SX679_.jpg",
+      "category": "TV",
+      "description": "Motion Rate 240, 60Hz Native Refresh Rate and HDMI 2.1: The TV's HDMI 2.1(eARC) port is the foundation for its 240 motion rate and native 60Hz refresh rate. These technologies work in concert to make fast-action scenes to ensure moving objects have minimal blurrin 50(B5) / 900(B8) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) : TDD-LTE : 1900(B39) / 2000(B34) / 2300(B40) / 2500(B41) / 2600(B38) and/or 5G",
+      "price": "7573"
+    },
+    {
+      "id": "14",
+      "seller":"ghacita",
+      "verified":"false",
+      "title": "TCL 32 Class 3-Series HD 720p LED Smart Roku TV",
+      "img": "https://m.media-amazon.com/images/I/71yi46Ali0L._AC_SX679_.jpg",
+      "category": "TV",
+      "description": "Simple, customizable home screen: Your favorite broadcast TV, streaming channels, gaming console and other devices are front-and-center, so you can spend your time relaxing Motion Rate 240, 60Hz Native Refresh Rate and HDMI 2.1: The TV's HDMI 2.1(eARC) port is the foundation for its 240 motion rate and native 60Hz refresh rate.tunning High-Definition: Stunning HD resolution offers enhanced clarity and detail for all your favorite entertainm",
+      "price": "9999"
+    },
+    {
+      "id": "15",
+      "seller":"chingam",
+      "verified":"true",
+      "title": "SAMSUNG 40-inch Class LED Smart FHD TV 1080P",
+      "img": "https://m.media-amazon.com/images/I/91eUgYILDWL._AC_SX679_.jpg",
+      "category": "TV",
+      "description": "roducts with electrical plugs are designed for use in the US. Outlets and voltage differ internationally and this product may require an adapter or converter for use in your destination. Please check compatibility before purchasin(B8) / 1700|2100(B4) / 1800(B3) / 1900(B2) / 2100(B1) / 2600(B7) : TDD-LTE : 1900(B39) / 2000(B34) / 2300(B40) / 2500(B41) / 2600(B38) and/or 5G",
+      "price": "7887"
+    },
+    {
+      "id": "16",
+      "seller":"numberone",
+      "verified":"false",
+      "title": "Hisense A4 Series 40-Inch Class FHD Smart Android TV with DTS Virtual X, Game",
+      "img": "https://m.media-amazon.com/images/I/61DQCQUJtoL._AC_SL1500_.jpg",
+      "category": "TV",
+      "description": "Motion Rate 120: Don't struggle to keep your eye on the ball—enjoy fast-paced sports, movies and gaming without the lag. Featuring Motion Rate image processing technology, this television keeps the thrills coming by making it easy to follow fast-moving actio and/or 5G",
+      "price": "7555"
+    },
+    {
+      "id": "17",
+      "seller":"babulegum",
+      "verified":"false",
+      "title": "LG 24 Inch Class HD Smart TV (24LM520S-WU, 2022)",
+      "img": "https://m.media-amazon.com/images/I/81G49Dp71ML._AC_SX679_.jpg",
+      "category": "TV",
+      "description": "Both a TV and a monitor, this HD display delivers high picture quality with outstanding color accuracy, visual contrast, and sharpnesshnologies work in concert to make fast-action scenes to ensure moving objects have minimalBuilt-in Wi-Fi lets you easily connect with other devices and share content, such as viewing a smartphone's contents on a bigg",
+      "price": "7073"
+    },
+    {
+      "id": "18",
+      "seller":"oggy",
+      "verified":"true",
+      "title": "SYLVOX 24 Inch TV 12/24 Volt TV 1080P Full HD RV TV,Built-in DVD Player",
+      "img": "https://m.media-amazon.com/images/I/71HcIXJ4zSL._AC_SX679_.jpg",
+      "category": "TV",
+      "description": "Multiple Protection Design : Full HD TV support DC 12v/24v (DC wide voltage 10.5V-28V ) power supply, recoil protection (when the voltage changes sharply, it can become flat and will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals are reversedG",
+      "price": "7570"
+    },
+    {
+      "id": "19",
+      "seller":"jack",
+      "verified":"true",
+      "title": "Amazon Basics In-Ear Wired Headphones, Earbuds with Microphone, Black",
+      "img": "https://m.media-amazon.com/images/I/615ksXZ-GhL._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "Compatible with any device with a 3.5mm jack, including Android and IOS smartphones; devices without a 3.5mm jack, like the iPhone 7, 8, 10, and Pixel 2, require an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "70"
+    },
+    {
+      "id": "20",
+      "seller":"oliviya",
+      "verified":"false",
+      "title": "TOZO T6 True Wireless Earbuds Bluetooth 5.3 Headphones Touch Control with Wireless Charging Case IPX8 Waterproof ",
+      "img": "https://m.media-amazon.com/images/I/71cVOgvystL._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "[IPX8 waterproof] Earbuds and charging case inner Nano-coating makes it possible to waterproof for 1 meters deep for 30 minutes. It is suitable for sports to prevent water. Ideal for sweating it out at the gym . Earbuds and case even can be washed by wate require an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "75"
+    },
+    {
+      "id": "21",
+      "seller":"Harun",
+      "verified":"true",
+      "title": "Amazon Basics In-Ear Wired Headphones, Earbuds with Microphone, Black",
+      "img": "https://m.media-amazon.com/images/I/615ksXZ-GhL._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "Compatible with any device with a 3.5mm jack, including Android and IOS smartphones; devices without a 3.5mm jack, like the iPhone 7, 8, 10, and Pixel 2, require an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "70"
+    },
+    {
+      "id": "22",
+      "seller":"antar",
+      "verified":"true",
+      "title": "Beats Solo3 Wireless On-Ear Headphones - Apple W1 Headphone Chip, Class 1 Bluetooth",
+      "img": "https://m.media-amazon.com/images/I/51QxA-98Q+L._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "Sleek, streamlined design that’s durable and affordable to go everywhere you dol 2, require an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "70"
+    },
+    {
+      "id": "23",
+      "seller":"Halima",
+      "verified":"true",
+      "title": "Philips H4205 On-Ear Wireless Headphones with 32mm Drivers and BASS Boost",
+      "img": "https://m.media-amazon.com/images/I/71WdPCSOq+L._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "Compatible with any device with a 3.5mm jack, including Android and IOS smartphones; devices without a 3.5mm jack, like the iPhone 7, 8, 10, and Pixel 2, require an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "70"
+    },
+    {
+      "id": "24",
+      "seller":"miiiiitu",
+      "verified":"true",
+      "title": "Audio-Technica ATH-AD700X Audiophile Open-Air Headphones Black",
+      "img": "https://m.media-amazon.com/images/I/81RQt1+MZML._AC_SX679_.jpg",
+      "category": "Headphones",
+      "description": "HERE COMES THE BASS: Pronounced beats. Stronger vibes. These wireless on-ear headphones boast a BASS boost button for deeper bass at a touch. Powerful 32mm drivers bring the beste an adapter will not damage the circuit), reverse connection protection (No short circuit even if the positive and negative terminals",
+      "price": "70"
+    }
+  ]
