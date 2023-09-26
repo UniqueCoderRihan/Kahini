@@ -18,9 +18,9 @@ const Categoris = () => {
     return (
         <div className="p-8 mt-20">
             <h2 className="text-2xl font-bold mb-4">Categories-</h2>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-10">
+            <div className="grid grid-cols-3 sm:grid-cols-2 md:grid-cols-6 gap-2">
                 {categoryItems.map(category => (
-                    <div key={category.id} className="relative overflow-hidden bg-white shadow-md rounded-lg">
+                    <div key={category.id} className="relative overflow-hidden bg-white shadow-md rounded-lg w-25">
                         <img src={category.imageUrl} alt={category.name} className="w-full h-full object-cover" />
                         <div className="absolute inset-0 flex items-center justify-center opacity-0 hover:opacity-100 transition-opacity duration-300 bg-black bg-opacity-50 text-white text-center">
                             <h3 className="text-lg font-semibold">{category.name}</h3>
