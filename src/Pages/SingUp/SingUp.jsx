@@ -34,8 +34,7 @@ const SingUp = () => {
     };
     return (
         <div className="bg-base-200 mx-auto sm:w-1/3 p-5 my-4 rounded-3xl">
-            <img src="https://i.ibb.co/M2GJH3g/techzoxne-1.png" alt="techzoxne-1" className='rounded-lg p-5' />
-            <p className="text-3xl ">Welcome for Joining With Us </p>
+            <p className="text-3xl text-center font-serif font-bold">Join With Us</p>
             <form  onSubmit={handleSubmit(onSubmit)}>
                 <div className="card-body ">
                     <div className="form-control">
