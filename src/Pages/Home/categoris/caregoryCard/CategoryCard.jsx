@@ -1,10 +1,7 @@
 import {Link} from 'react-router-dom'
 
 const CategoryCard = ({category}) => {
-    const handleClickCategory = ()=>{
-        
-    }
-
+    
     return (
         <Link to='category-products' state={{category}} className="relative overflow-hidden bg-white shadow-md rounded-lg w-25">
             <img src={category.imageUrl} alt={category.name} className="w-full h-full object-cover" />
