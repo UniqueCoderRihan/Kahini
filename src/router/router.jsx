@@ -5,6 +5,8 @@ import Home from "../Pages/Home/Home";
 import SingUp from "../Pages/SingUp/SingUp";
 import Login from "../Pages/Login/Login";
 import CategoryProducts from "../Pages/CategoryProducts/CategoryProducts";
+import Products from "../Pages/Products/Products";
+
 
 const router = createBrowserRouter([
     {
@@ -19,6 +21,10 @@ const router = createBrowserRouter([
             {
                 path: '/category-products',
                 element: <CategoryProducts/>
+            },
+            {
+                path: '/products',
+                element: <Products/>
             },
             {
                 path: '/register',
