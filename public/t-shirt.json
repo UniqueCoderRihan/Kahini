@@ -1,0 +1,609 @@
+[
+    {
+        "product_id": "cyco1",
+        "product_name": "Handsome Boys T shirt",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/991509/pexels-photo-991509.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+    {
+        "product_id": "cyco2",
+        "product_name": "Boys T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"2",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+    {
+        "product_id": "cyco3",
+        "product_name": "Boys T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+    {
+        "product_id": "cyco4",
+        "product_name": "Boys T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"22",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+    {
+        "product_id": "cyco6",
+        "product_name": "Cyco T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco7",
+        "product_name": "Cyco T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco8",
+        "product_name": "Cyco Women T shirt ",
+        "brand": "Cyco",
+        "category": "women",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/11142589/pexels-photo-11142589.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco9",
+        "product_name": "Cyco Women Lovio ",
+        "brand": "Cyco",
+        "category": "women",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco10",
+        "product_name": "Cyco Women Al-banis ",
+        "brand": "Cyco",
+        "category": "women",
+        "price": 88.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/7475042/pexels-photo-7475042.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco11",
+        "product_name": "Cyco T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/428311/pexels-photo-428311.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco12",
+        "product_name": "Cyco Women Lovio ",
+        "brand": "Cyco",
+        "category": "women",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/7475042/pexels-photo-7475042.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco13",
+        "product_name": "Boys T shirt ",
+        "brand": "Cyco",
+        "category": "men",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/1304647/pexels-photo-1304647.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco14",
+        "product_name": "T shirt Jossino ",
+        "brand": "Cyco",
+        "category": "kids",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/17412586/pexels-photo-17412586/free-photo-of-a-little-girl-in-a-pink-top-sitting-on-a-chair.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco15",
+        "product_name": "T shirt for Kids ",
+        "brand": "Cyco",
+        "category": "kids",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco16",
+        "product_name": "T shirt for sweet Kids ",
+        "brand": "Cyco",
+        "category": "kids",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/17328918/pexels-photo-17328918/free-photo-of-smiling-girl-sitting-with-thumb-up.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      },
+      {
+        "product_id": "cyco17",
+        "product_name": "T shirt for sweet Kids ",
+        "brand": "Cyco",
+        "category": "kids",
+        "price": 49.99,
+        "currency": "USD",
+        "availability": true,
+        "rating": 4.5,
+        "num_ratings": 10000,
+        "description": "This is Cyco Number 1 Brand product. Hello welcome for buying Me .",
+        "images":"https://images.pexels.com/photos/4473405/pexels-photo-4473405.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "features": [
+          " T-shirts are a type of lightweight, comfortable, and casual garment typically made from cotton or a cotton-blend fabric.",
+          "They have a classic style with short sleeves and a crew neck, but variations like V-neck and scoop neck t-shirts also exist.",
+          "T-shirts are incredibly versatile and can be worn as standalone tops or layered under other clothing items. ",
+          "Compact and stylish design"
+        ],
+        "dimensions": {
+          "height": 1.68,
+          "width": 3.89,
+          "depth": 3.89,
+          "unit": "inches"
+        },
+        "weight": {
+          "value": 10.6,
+          "unit": "ounces"
+        },
+        "package_contents": [
+          "Good package_contents",
+          "Feedback Option"
+        ],
+        "shipping_details": {
+          "free_shipping": true,
+          "shipping_time": "2 days",
+          "available_countries": ["United States", "Canada", "United Kingdom", "Germany", "France", "Japan","Bangladesh"]
+        }
+      }
+]
